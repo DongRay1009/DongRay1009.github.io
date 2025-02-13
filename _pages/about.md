@@ -30,17 +30,18 @@ I am an undergraduate student at Beijing University of Chemical Technology, wher
   
 
 # 📝 Projects
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RL</div><img src='images/DogJump.gif' alt="sym" width="100%"></div></div>
+*: Equal Contribution
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RL</div><img src='images/Lerobot.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Learning Related**
+**Reproducing and Training the ACT Neural Network from the LeRobot Project**
 
-- Guidance Diffusion Policy (ongoing)
 
-- [Isaac Lab Lift the Cube Using PPO](https://www.youtube.com/watch?v=85kfourVDQw)
+- The robotic arm involved in the project was 3d printed as well as physically assembled. We also attempted to train the dataset ourselves to allow the robotic arm to autonomously organize the desktop
 
-- [Training a Robot Dog to Leap in Isaac Gym](https://www.youtube.com/watch?v=7Vgz2X01VxU)
+- Set up the project environment and dependencies, including configuring frameworks. Conducted in-depth research on the ACT algorithm from the LeRobot project, implemented and reproduced its core functionalities based on the original paper. Designed and executed training pipelines, monitored performance metrics, and conducted multiple experiments to validate results against the paper’s benchmarks. Debugged training issues (e.g., gradient vanishing and hyperparameter tuning) and optimized model performance.
+
+
 
 </div>
 </div>
@@ -48,9 +49,9 @@ I am an undergraduate student at Beijing University of Chemical Technology, wher
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboCup</div><img src='images/RoboCup.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**RoboCup@Home China Open 2022**
+**RoboCup@Home China Open 2024**
 
-- Developed an intelligent home service robot with functions of guest reception and guidance, voice interaction, object recognition, and room cleaning
+- Developed an intelligent home service robot based on ROS
 
 - [What is That](https://youtu.be/Q4CnmgxCESk)
 
