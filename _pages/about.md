@@ -111,16 +111,12 @@ I am an undergraduate student at Beijing University of Chemical Technology, wher
 
 # 📖 Educations
 
-- *2024.08 - now*, M.Sc., Robotics, University of Michigan-Ann Arbor. Ann Arbor, USA. 
-- 2023.08 - 2024.05, B.Eng., Robotic and Mechatronic Systems Engineering, University of Detroit Mercy. Detroit, USA. 
-- 2020.09 - 2023.07, B.Eng., Mechanical Design, Manufacturing, and Its Automation, Beijing University of Chemical Technology. Beijing, China
+- 2022.09 - now, B.Eng., Mechanical Design, Manufacturing, and Its Automation, Beijing University of Chemical Technology. Beijing, China
 
 # 💻 Internships
 
-- *2024.06 - 2024.08*, [Algorithm engineer], [Encosmart](http://www.encosmart.com/home), Beijing. 
-- *2023.04 - 2023.06*, [Teaching Assistant], Beijing University of Chemical Technology, Beijing. Course: Robot Workshop. Course: Foundations of Electrical Engineering.
-- *2022.04 - 2023.04*, [Project Intern], [Institute of AI Industry Research (AIR)](https://air.tsinghua.edu.cn/en/index.htm), Tsinghua University, Beijing. Supervised by Xinliang Zhang, R&D of AIR DISCOVER Lab.
+- *2024.07 - 2024.08*, [Hardware and software engineer], STATE GRID INTELLIGENCE TECHNOLOGY CO.,LTD, Jinan, Shandong. 
 
 # 📄 CV
-- [CV](https://github.com/linden713/linden713.github.io/blob/main/CV-Chenghao%20Lin-EN.pdf)
+- [CV](https://github.com/DongRay1009/DongRay1009.github.io/Dong_CV.pdf)
 
