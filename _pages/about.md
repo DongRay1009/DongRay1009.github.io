@@ -31,11 +31,12 @@ I am an undergraduate student at Beijing University of Chemical Technology, wher
 
 # 📝 Projects
 *: Equal Contribution
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RL</div><img src='images/Lerobot.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Lerobot</div><img src='images/Lerobot.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Reproducing and Training the ACT Neural Network from the LeRobot Project**
 
+*Team Members: Jiawei Xia*, Xianglei Dong**
 
 - The robotic arm involved in the project was 3d printed as well as physically assembled. We also attempted to train the dataset ourselves to allow the robotic arm to autonomously organize the desktop
 
@@ -51,73 +52,60 @@ I am an undergraduate student at Beijing University of Chemical Technology, wher
 
 **RoboCup@Home China Open 2024**
 
-- Developed an intelligent home service robot based on ROS
+*Team Members: Jiawei Xia, Xianglei Dong, Wengcong Zhang, Boyi Zhang, Yutong Sun*
 
-- [What is That](https://youtu.be/Q4CnmgxCESk)
+- Developed an intelligent home service robot using Kinova Gen2 and Kinect Azure camera, with functions including guest reception and guidance, voice interaction, object recognition, and room cleaning
+- Used the End-to-end grasping algorithm Graspnet to obtain the 6D pose of the object, which will be sent to the end of the robotic arm by 'TF listener, Controlled the arm using Actionlib and Movelt!, used the RR'T* algorithm for efficient trajectory generation, and TRAC-IK for an accurate inverse kinematics solver. Adopted Azure Al Speech SDK for speech recognition and voice output, combined with a finite state machine to enable simple human-computer voice interaction. For object recognition, integrated YOLOv5 and Kinect DK. Applied Cartographer for 2D indoor mapping, used IRIS LaMa for robot localization, achieved local path planning based on the DWA and global path planning based on the A* algorithm
 
-- [Receptionist](https://youtu.be/N8DXzzaAM7E)
 
-- [Use jaco2 robotic arm to open the door and grab objects ](https://youtu.be/AMC0N596RX8)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboMaster</div><img src='images/RoboMaster.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboMaster</div><img src='images/RM_sim2real.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**ICRA RoboMaster University Sim2real Challenge 2022 Team:777**](https://youtu.be/7V5SHpF0PHM)
+**ICRA RoboMaster University Sim2real Challenge 2024**
 
-- Employed an Extended Kalman Filter (EKF) alongside an omnidirectional motion model for state projection and correction using sensor data, including IMU and odometry
-- Utilized A* algorithm for global path planning and Timed Elastic Band algorithm for local path planning
+*Team Members: Jiawei Xia, Xianglei Dong, Wengcong Zhang, Boyi Zhang*
+
+- ICRA 2024 RoboMaster University Sim2Real Challenge: Utilized ArUco markers to determine the poses of boxes. Extracted the transformation and rotation matrices of boxes from detected marker poses. Deployed an Extended Kalman Filter (EKF) alongside an omnidirectional robot to enhance localization and pose estimation accuracy.
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Swarm Robot</div><img src='images/swarm.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">rviz plugin</div><img src='images/swarm.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- **Collaborative Control of Wheeled-legged Robots** 
+ **Waypoint_nav_plugin** 
 
-- Aimed to study the simultaneous stabilization and tracking problems of non-holonomic wheeled mobile robots based on kinematics models
+*Team Members: Xianglei Dong*
+
+- Implemented functionality for outputting waypoints to a `waypoints.txt` file.
+
+- Enabled multi-point navigation for robots, significantly reducing the need for manual input of coordinate points in RViz.
+
+- Contributed to the improvement of robot path planning and navigation efficiency.
   
-- [Collaborative Control of Robot Simulation](https://www.youtube.com/watch?v=om2NmwMu-Js)
-
-- [Swarming Robot: Sim2Real Transfer](https://youtu.be/3t6fWcQid-4)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Curriculum Design</div><img src='images/Curriculum Design.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">graspnet</div><img src='images/graspnet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Course Designs During My Undergraduate Studies**
+ **Updates to the graspnet-baseline** 
 
-- [【3D Printing】 Bladeless fan and its simulation](https://www.youtube.com/watch?v=6420fBbG6VM)
+*Team Members: Xianglei Dong*
 
-- [A Microcontroller Car Based on Tm4c123g](https://youtube.com/shorts/m4qo-C5q6Ho)
-
-- [Design of hydraulic system for single-leg structure of multi-legged robot](https://github.com/linden713/Design-of-hydraulic-system-for-single-leg-structure-of-multi-legged-robot)
-
-- [Genetic Algorithm Based Function Optimization and BP Neural Network Based Prediction](https://github.com/linden713/Genetic-Algorithm-Based-Function-Optimization-and-BP-Neural-Network-Based-Prediction)
-
-- [Secondary reduction gearbox design](https://github.com/linden713/Secondary-reduction-gearbox-design)
+- Adjustments to the graspnet code to accommodate newer versions of the torch for compilation and runtime
 
 </div>
 </div>
 
 # 🏅 Honors and Awards
 
-- *2022.11* The First Prize, RoboCup@Home China Open
-- *2022.05* The Third Prize, RoboMaster University Sim2Real Challenge
-- *2022.03* Second place in Tsinghua Intelligent Industry Research Institute Robotics Training Camp
-- *2021.12* The Second Prize, China Robot Skills Competition
-
- <br/>
-
-- *2023.10* Jingbo Scholarship, Jingbo/Chambroad
-- *2023.01* Third Prize Scholarship, BUCT
-- *2021.12* National Scholarship, Ministry of Education
-- *2021.12* Excellent Student, BUCT
-- *2021.05* Second Prize Scholarship, BUCT
+- *2024.11* The Second Prize, ICAN International Contest of innovAtioN
+- *2024.05* The Second Prize, RoboCup@Home China Open
   
   
 
