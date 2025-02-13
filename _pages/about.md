@@ -79,7 +79,7 @@ I am an undergraduate student at Beijing University of Chemical Technology, wher
 
  **Waypoint_nav_plugin** 
 
-*Team Members: **Xianglei Dong** *
+*Team Members: **Xianglei Dong***
 
 - Implemented functionality for outputting waypoints to a `waypoints.txt` file.
 
