@@ -52,7 +52,7 @@ I am an undergraduate student at Beijing University of Chemical Technology, wher
 
 **RoboCup@Home China Open 2024**
 
-*Team Members: Jiawei Xia~*, **Xianglei Dong**, *Wengcong Zhang, Boyi Zhang, Yutong Sun*
+*Team Members: Jiawei Xia*, **Xianglei Dong**, *Wengcong Zhang, Boyi Zhang, Yutong Sun*
 
 - Developed an intelligent home service robot using Kinova Gen2 and Kinect Azure camera, with functions including guest reception and guidance, voice interaction, object recognition, and room cleaning
 - Used the End-to-end grasping algorithm Graspnet to obtain the 6D pose of the object, which will be sent to the end of the robotic arm by 'TF listener, Controlled the arm using Actionlib and Movelt!, used the RR'T* algorithm for efficient trajectory generation, and TRAC-IK for an accurate inverse kinematics solver. Adopted Azure Al Speech SDK for speech recognition and voice output, combined with a finite state machine to enable simple human-computer voice interaction. For object recognition, integrated YOLOv5 and Kinect DK. Applied Cartographer for 2D indoor mapping, used IRIS LaMa for robot localization, achieved local path planning based on the DWA and global path planning based on the A* algorithm
@@ -74,7 +74,7 @@ I am an undergraduate student at Beijing University of Chemical Technology, wher
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">rviz plugin</div><img src='images/swarm.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">rviz plugin</div><img src='images/waypoint_nav_plugin.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  **Waypoint_nav_plugin** 
