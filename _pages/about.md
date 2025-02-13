@@ -67,7 +67,7 @@ I am an undergraduate student at Beijing University of Chemical Technology, wher
 
 **ICRA RoboMaster University Sim2real Challenge 2024**
 
-*Team Members: Jiawei Xia, Xianglei Dong, Wengcong Zhang, Boyi Zhang*
+*Team Members: Jiawei Xia*, **Xianglei Dong** *, Wengcong Zhang, Boyi Zhang*
 
 - ICRA 2024 RoboMaster University Sim2Real Challenge: Utilized ArUco markers to determine the poses of boxes. Extracted the transformation and rotation matrices of boxes from detected marker poses. Deployed an Extended Kalman Filter (EKF) alongside an omnidirectional robot to enhance localization and pose estimation accuracy.
 
@@ -79,7 +79,7 @@ I am an undergraduate student at Beijing University of Chemical Technology, wher
 
  **Waypoint_nav_plugin** 
 
-*Team Members: Xianglei Dong*
+*Team Members: **Xianglei Dong** *
 
 - Implemented functionality for outputting waypoints to a `waypoints.txt` file.
 
@@ -95,7 +95,7 @@ I am an undergraduate student at Beijing University of Chemical Technology, wher
 
  **Updates to the graspnet-baseline** 
 
-*Team Members: Xianglei Dong*
+*Team Members: **Xianglei Dong***
 
 - Adjustments to the graspnet code to accommodate newer versions of the torch for compilation and runtime
 
