@@ -17,17 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-🔥**Welcome to My Page!**🔥
+🌟**Welcome to My Page!**🌟
 
-I am currently pursuing my degree in robotics at the University of Michigan, specializing in Robot Perception & Manipulation. My interests lie in learning and mobile manipulation.
+I am an undergraduate student at Beijing University of Chemical Technology, where I am leading as a member of SIE Robotics Club, a student organization focusing on robotics competitions.
 
-I previously studied mechanical design, manufacturing, and automation at [Beijing University of Chemical Technology](https://www.buct.edu.cn/main.htm) for three years before transferring to the [University of Detroit Mercy](https://www.udmercy.edu/) for my fourth year in robotics.
-
+<span style="color: red;">I am actively looking for research and intern opportunities in robotics and machine learning.</span>
 
 # 🔥 News
 
-- *2024.04*: &nbsp;🏫🏫 Glad to have the opportunity to come to the University of Michigan-Ann Arbor to learn more about robotics!
-  
+- *2024.07*: &nbsp;Such a pleasure that I can have the opportunity to intern at STATE GRID INTELLIGENCE TECHNOLOGY CO.,LTD
+
   
 
 # 📝 Projects
