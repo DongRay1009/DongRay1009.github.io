@@ -36,7 +36,7 @@ I am an undergraduate student at Beijing University of Chemical Technology, wher
 
 **Reproducing and Training the ACT Neural Network from the LeRobot Project**
 
-*Team Members: Jiawei Xia*, Xianglei Dong**
+*Team Members: Jiawei Xia*, **Xianglei Dong**
 
 - The robotic arm involved in the project was 3d printed as well as physically assembled. We also attempted to train the dataset ourselves to allow the robotic arm to autonomously organize the desktop
 
