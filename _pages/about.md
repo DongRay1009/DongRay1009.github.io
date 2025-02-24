@@ -19,7 +19,8 @@ redirect_from:
 
 🌟**Welcome to My Page!**🌟
 
-I am an undergraduate student at Beijing University of Chemical Technology, where I am leading as a member of SIE Robotics Club, a student organization focusing on robotics competitions.
+I am an undergraduate student at Beijing University of Chemical Technology, where I am leading as a member of [SIE Robotics Club](https://sie-robotics.com/), a student organization focusing on robotics competitions.
+
 
 <span style="color: red;">I am actively looking for research and intern opportunities in robotics and machine learning.</span>
 
@@ -36,7 +37,7 @@ I am an undergraduate student at Beijing University of Chemical Technology, wher
 
 **Reproducing and Training the ACT Neural Network from the LeRobot Project**
 
-*Team Members: [**Jiawei Xia**](https://harroldx.github.io/maplex.github.io/)*, **Xianglei Dong~**
+*Team Members: [**Jiawei Xia~**](https://harroldx.github.io/maplex.github.io/)*, **Xianglei Dong~**
 
 - The robotic arm involved in the project was 3d printed as well as physically assembled. We also attempted to train the dataset ourselves to allow the robotic arm to autonomously organize the desktop
 
