@@ -35,7 +35,7 @@ I am an undergraduate student at Beijing University of Chemical Technology, wher
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Lerobot</div><img src='images/Lerobot.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Reproducing and Training the ACT Neural Network from the LeRobot Project**
+[**Reproducing and Training the ACT Neural Network from the LeRobot Project**](https://www.bilibili.com/video/BV1u3kmYFEzM/?share_source=copy_web&vd_source=1d11b082e214e205bf1127f07df592b2)
 
 *Team Members: [**Jiawei Xia~**](https://harroldx.github.io/maplex.github.io/)*, **Xianglei Dong~**
 
@@ -51,7 +51,7 @@ I am an undergraduate student at Beijing University of Chemical Technology, wher
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboCup</div><img src='images/RoboCup.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**RoboCup@Home China Open 2024**
+[**RoboCup@Home China Open 2024**](https://www.bilibili.com/video/BV1Yw4m1S7pn/?share_source=copy_web&vd_source=1d11b082e214e205bf1127f07df592b2)
 
 *Team Members: [**Jiawei Xia**](https://harroldx.github.io/maplex.github.io/)*, **Xianglei Dong**, *Wengcong Zhang, Boyi Zhang, Yutong Sun*
 
@@ -66,7 +66,7 @@ I am an undergraduate student at Beijing University of Chemical Technology, wher
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboMaster</div><img src='images/RM_sim2real.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**ICRA RoboMaster University Sim2real Challenge 2024**
+[**ICRA RoboMaster University Sim2real Challenge 2024**](https://www.bilibili.com/video/BV1ugbKeaEhx/?share_source=copy_web&vd_source=1d11b082e214e205bf1127f07df592b2)
 
 *Team Members: [**Jiawei Xia**](https://harroldx.github.io/maplex.github.io/), **Xianglei Dong**, *Wengcong Zhang, Boyi Zhang*
 
@@ -108,7 +108,7 @@ I am an undergraduate student at Beijing University of Chemical Technology, wher
 - *2024.11* The Second Prize, ICAN International Contest of innovAtioN
 - *2024.05* The Second Prize, RoboCup@Home China Open
   
-  
+
 
 # 📖 Educations
 
