@@ -79,7 +79,7 @@ I am an undergraduate student at Beijing University of Chemical Technology, wher
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">rviz plugin</div><img src='images/waypoint_nav_plugin.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- **Waypoint_nav_plugin** (https://github.com/DongRay1009/waypoint_nav_plugin)
+ [**Waypoint_nav_plugin**](https://github.com/DongRay1009/waypoint_nav_plugin)
 
 *Team Members: **Xianglei Dong***
 
@@ -95,7 +95,7 @@ I am an undergraduate student at Beijing University of Chemical Technology, wher
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">graspnet</div><img src='images/graspnet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- **YOLOv8 GraspNet ROS** (https://github.com/DongRay1009/yolov8_graspnet_ros)
+ [**YOLOv8 GraspNet ROS**](https://github.com/DongRay1009/yolov8_graspnet_ros)
 
 *Team Members: **Xianglei Dong***
 
@@ -107,7 +107,7 @@ I am an undergraduate student at Beijing University of Chemical Technology, wher
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">yolo 3d detection</div><img src='images/yolo_3d_detection.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- **Yolov8 3d detection based on ROS** (https://github.com/DongRay1009/yolov8_3d_ros)
+ [**Yolov8 3d detection based on ROS**] (https://github.com/DongRay1009/yolov8_3d_ros)
 
 *Team Members: **Xianglei Dong***
 
