@@ -69,7 +69,7 @@ I am an undergraduate student at Beijing University of Chemical Technology, wher
 
 [**ICRA RoboMaster University Sim2real Challenge 2024**](https://www.bilibili.com/video/BV1ugbKeaEhx/?share_source=copy_web&vd_source=1d11b082e214e205bf1127f07df592b2)
 
-*Team Members: [**Jiawei Xia**](https://harroldx.github.io/maplex.github.io/), **Xianglei Dong**, *Wengcong Zhang, Boyi Zhang* *
+*Team Members: [**Jiawei Xia**](https://harroldx.github.io/maplex.github.io/), **Xianglei Dong**, *Wengcong Zhang, Boyi Zhang*
 
 - ICRA 2024 RoboMaster University Sim2Real Challenge: Utilized ArUco markers to determine the poses of boxes. Extracted the transformation and rotation matrices of boxes from detected marker poses. Deployed an Extended Kalman Filter (EKF) alongside an omnidirectional robot to enhance localization and pose estimation accuracy.
 
