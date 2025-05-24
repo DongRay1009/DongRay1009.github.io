@@ -25,6 +25,7 @@ I am an undergraduate student at Beijing University of Chemical Technology, wher
 <span style="color: red;">I am actively looking for research and intern opportunities in robotics and machine learning.</span>
 
 # 🔥 News
+- *2025.05*：&nbsp;We won first prize at robocup@home 2025!🎇🎉🍾
 
 - *2024.07*: &nbsp;Such a pleasure that I can have the opportunity to intern at STATE GRID INTELLIGENCE TECHNOLOGY CO.,LTD
 
@@ -56,7 +57,7 @@ I am an undergraduate student at Beijing University of Chemical Technology, wher
 *Team Members: [**Jiawei Xia**](https://harroldx.github.io/maplex.github.io/)*, **Xianglei Dong**, *Wengcong Zhang, Boyi Zhang, Yutong Sun*
 
 - Developed an intelligent home service robot using Kinova Gen2 and Kinect Azure camera, with functions including guest reception and guidance, voice interaction, object recognition, and room cleaning
-- Used the End-to-end grasping algorithm Graspnet to obtain the 6D pose of the object, which will be sent to the end of the robotic arm by 'TF listener, Controlled the arm using Actionlib and Movelt!, used the RR'T* algorithm for efficient trajectory generation, and TRAC-IK for an accurate inverse kinematics solver. Adopted Azure Al Speech SDK for speech recognition and voice output, combined with a finite state machine to enable simple human-computer voice interaction. For object recognition, integrated YOLOv5 and Kinect DK. Applied Cartographer for 2D indoor mapping, used IRIS LaMa for robot localization, achieved local path planning based on the DWA and global path planning based on the A* algorithm
+- Used the End-to-end grasping algorithm Graspnet to obtain the 6D pose of the object, which will be sent to the end of the robotic arm by 'TF listener, Controlled the arm using Actionlib and Movelt!, used the RR'T* algorithm for efficient trajectory generation, and TRAC-IK for an accurate inverse kinematics solver. Adopted Azure Al Speech SDK for speech recognition and voice output, combined with a finite state machine to enable simple human-computer voice interaction. For object recognition, integrated YOLOv8 3d detection and Kinect DK. Applied Cartographer for 2D indoor mapping, used IRIS LaMa for robot localization, achieved local path planning based on the DWA and global path planning based on the A* algorithm
 
 
 
@@ -78,7 +79,7 @@ I am an undergraduate student at Beijing University of Chemical Technology, wher
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">rviz plugin</div><img src='images/waypoint_nav_plugin.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- **Waypoint_nav_plugin** 
+ **Waypoint_nav_plugin** (https://github.com/DongRay1009/waypoint_nav_plugin)
 
 *Team Members: **Xianglei Dong***
 
@@ -94,17 +95,29 @@ I am an undergraduate student at Beijing University of Chemical Technology, wher
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">graspnet</div><img src='images/graspnet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- **Updates to the graspnet-baseline** 
+ **YOLOv8 GraspNet ROS** (https://github.com/DongRay1009/yolov8_graspnet_ros)
 
 *Team Members: **Xianglei Dong***
 
-- Adjustments to the graspnet code to accommodate newer versions of the torch for compilation and runtime
+- An integrated ROS (Robot Operating System) based system combining YOLOv8 target detection and GraspNet grasping pose generation, mainly for robot visual grasping tasks.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">yolo 3d detection</div><img src='images/yolo_3d_detection.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ **Yolov8 3d detection based on ROS** (https://github.com/DongRay1009/yolov8_3d_ros)
+
+*Team Members: **Xianglei Dong***
+
+- Based on ROS Noetic, YOLO 3D Detection is a real-time 3D target detection technology based on YOLO (You Only Look Once) series of target detection algorithms, designed for autonomous driving, robot navigation and other scenarios, and is able to predict the 3D Bounding Box and spatial attitude of an object from 2D images or point cloud data.
 
 </div>
 </div>
 
 # 🏅 Honors and Awards
-
+- *2025.05* The First Prize, RoboCup@Home China Open
 - *2024.11* The Second Prize, ICAN International Contest of innovAtioN
 - *2024.05* The Second Prize, RoboCup@Home China Open
   
