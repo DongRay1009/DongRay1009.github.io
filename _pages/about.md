@@ -107,7 +107,7 @@ I am an undergraduate student at Beijing University of Chemical Technology, wher
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">yolo 3d detection</div><img src='images/yolo_3d_detection.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- [**Yolov8 3d detection based on ROS**] (https://github.com/DongRay1009/yolov8_3d_ros)
+ [**Yolov8 3d detection based on ROS**](https://github.com/DongRay1009/yolov8_3d_ros)
 
 *Team Members: **Xianglei Dong***
 
