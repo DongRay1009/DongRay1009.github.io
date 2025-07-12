@@ -129,7 +129,7 @@ I am an undergraduate student at Beijing University of Chemical Technology, wher
 
 # 💻 Internships
 
-- *2024.07 - 2024.08*, [Hardware and software engineer], STATE GRID INTELLIGENCE TECHNOLOGY CO.,LTD, Jinan, Shandong. 
+- *2024.07 - 2024.09*, [Hardware and software engineer], STATE GRID INTELLIGENCE TECHNOLOGY CO.,LTD, Jinan, Shandong. 
 
 # 📄 CV
 - [CV](https://github.com/DongRay1009/DongRay1009.github.io/blob/main/Dong_CV.pdf)
