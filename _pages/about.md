@@ -19,7 +19,7 @@ redirect_from:
 
 🌟**Welcome to My Page!**🌟
 
-I am an undergraduate student at Beijing University of Chemical Technology, where I am leading as a member of [SIE Robotics Club](https://sie-robotics.com/), a student organization focusing on robotics competitions.
+I spent three years at Beijing University of Chemical Technology, majoring in Mechanical Design and Automation. Currently, I’m a senior at the University of Detroit Mercy (UDM), pursuing a Bachelor's degree in Robotics and Mechatronics. 
 
 
 <span style="color: red;">I am actively looking for research and intern opportunities in robotics and machine learning.</span>
