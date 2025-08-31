@@ -125,7 +125,8 @@ I spent three years at Beijing University of Chemical Technology, majoring in Me
 
 # 📖 Educations
 
-- 2022.09 - now, B.Eng., Mechanical Design, Manufacturing, and Its Automation, Beijing University of Chemical Technology. Beijing, China
+- 2022.09 - 2025.07, B.Eng., Mechanical Design, Manufacturing, and Its Automation, Beijing University of Chemical Technology. Beijing, China
+- 2025.09 - now, B.Eng., Mechanical Design, Manufacturing, and Its Automation, Beijing University of Chemical Technology. Beijing, China
 
 # 💻 Internships
 
