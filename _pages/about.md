@@ -19,10 +19,10 @@ redirect_from:
 
 🌟**Welcome to My Page!**🌟
 
-I spent three years at Beijing University of Chemical Technology, majoring in Mechanical Design and Automation. Currently, I’m a senior at the University of Detroit Mercy (UDM), pursuing a Bachelor's degree in Robotics and Mechatronics. 
+I spent three years at Beijing University of Chemical Technology, majoring in Mechanical Design and Automation. I graduated from the University of Detroit Mercy (UDM) in May 2026 with a Bachelor's degree in Robotics and Mechatronic Systems Engineering (GPA: 3.70, Dean's List).
 
 
-<span style="color: red;">I am actively looking for research and intern opportunities in robotics and machine learning.</span>
+<span style="color: red;">I am actively looking for full-time opportunities in robotics, machine learning, and autonomous systems engineering.</span>
 
 # 🔥 News
 - *2025.05*：&nbsp;We won first prize at robocup@home 2025!🎇🎉🍾
@@ -126,7 +126,7 @@ I spent three years at Beijing University of Chemical Technology, majoring in Me
 # 📖 Educations
 
 - 2022.09 - 2025.07, B.Eng., Mechanical Design, Manufacturing, and Its Automation, Beijing University of Chemical Technology. Beijing, China
-- 2025.09 - now, B.Eng., Robotics and Mechatronics System, Univerity of Detroit Mercy. Detroit, USA
+- 2025.09 - 2026.05, B.Eng., Robotics and Mechatronic Systems Engineering, University of Detroit Mercy. Detroit, USA (GPA: 3.70, Dean's List)
 
 # 💻 Internships
 
